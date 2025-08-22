@@ -20,6 +20,7 @@ I am also very passionate about mathematics education. For the 2023/24 school ye
 I've played the cello for about sixteen years, and I particularly enjoy Baroque music and counterpoint. My favorite composers are Bach, Dvořák, and Shostakovich. I also have several years of vocal training, primarily in Ashkenazi Jewish liturgical music, although I have an ongoing interest in Mizrahi traditions as well.
 
 **Other Passions**
+------
 - I am an avid basketball player, and am always excited to run a game of pickup.
 - Reading! I primarily read non-fiction, although I also love fantasy novels with interesting magic systems. My favorite author is, by far, [Brandon Sanderson](https://www.brandonsanderson.com/).
 - Family is very important to me. I have two younger brothers, and a girlfriend with whom I've been with for three years.
