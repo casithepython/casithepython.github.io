@@ -27,7 +27,7 @@ main:
     url: /exposition/
     
   - title: "CV"
-    url: files/Isaac Cheng Resume.docx
+    url: /files/Isaac Cheng Resume.docx
     
   # - title: "CV"
   #   url: /cv-json/
