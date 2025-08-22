@@ -11,7 +11,7 @@ Hello! I'm a sophomore at [Swarthmore College](https://www.swarthmore.edu/), int
 
 **Mathematical Interests**
 ------
-I'm interested in any and all mathematics, but I'm partial to categorical methods of understanding things. For this reason, I especially enjoy homological algebra, algebraic topology, and homotopy theory. Recently I've become interested in how geometric/topological methods can be applied to non-geometric objects, such as in [the analogy between knots and primes](https://www.julianlyczak.nl/seminar/knots2016-files/knots_and_primes.pdf).
+I'm interested in any and all mathematics, but I'm partial to categorical methods of understanding things. For this reason, I especially enjoy homological algebra, algebraic topology, and homotopy theory. I am obsessed with modules. Recently I've become interested in how geometric/topological methods can be applied to non-geometric objects, such as in [the analogy between knots and primes](https://www.julianlyczak.nl/seminar/knots2016-files/knots_and_primes.pdf).
 
 I am also very passionate about mathematics education. For the 2023/24 school year, I taught the advanced math class at the [Jewish Middle School of Nashville](https://www.jmsnashville.org/). I was also a counselor at the 2025 [PROMYS](https://promys.org/) summer program (where I was a student in 2023 and 2024). Both experiences were life-changing, and I'm always looking for opportunities to share my excitement about math with others.
 
